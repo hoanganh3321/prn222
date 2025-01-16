@@ -1,0 +1,14 @@
+E:\wpfc#\ServerApp\ConsoleApp1\bin\Debug\net8.0\ClientApp.exe
+E:\wpfc#\ServerApp\ConsoleApp1\bin\Debug\net8.0\ClientApp.deps.json
+E:\wpfc#\ServerApp\ConsoleApp1\bin\Debug\net8.0\ClientApp.runtimeconfig.json
+E:\wpfc#\ServerApp\ConsoleApp1\bin\Debug\net8.0\ClientApp.dll
+E:\wpfc#\ServerApp\ConsoleApp1\bin\Debug\net8.0\ClientApp.pdb
+E:\wpfc#\ServerApp\ConsoleApp1\obj\Debug\net8.0\ClientApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\wpfc#\ServerApp\ConsoleApp1\obj\Debug\net8.0\ClientApp.AssemblyInfoInputs.cache
+E:\wpfc#\ServerApp\ConsoleApp1\obj\Debug\net8.0\ClientApp.AssemblyInfo.cs
+E:\wpfc#\ServerApp\ConsoleApp1\obj\Debug\net8.0\ClientApp.csproj.CoreCompileInputs.cache
+E:\wpfc#\ServerApp\ConsoleApp1\obj\Debug\net8.0\ClientApp.dll
+E:\wpfc#\ServerApp\ConsoleApp1\obj\Debug\net8.0\refint\ClientApp.dll
+E:\wpfc#\ServerApp\ConsoleApp1\obj\Debug\net8.0\ClientApp.pdb
+E:\wpfc#\ServerApp\ConsoleApp1\obj\Debug\net8.0\ClientApp.genruntimeconfig.cache
+E:\wpfc#\ServerApp\ConsoleApp1\obj\Debug\net8.0\ref\ClientApp.dll

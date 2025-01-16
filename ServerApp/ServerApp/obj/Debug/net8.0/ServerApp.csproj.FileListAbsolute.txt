@@ -1,0 +1,14 @@
+E:\wpfc#\ServerApp\ServerApp\bin\Debug\net8.0\ServerApp.exe
+E:\wpfc#\ServerApp\ServerApp\bin\Debug\net8.0\ServerApp.deps.json
+E:\wpfc#\ServerApp\ServerApp\bin\Debug\net8.0\ServerApp.runtimeconfig.json
+E:\wpfc#\ServerApp\ServerApp\bin\Debug\net8.0\ServerApp.dll
+E:\wpfc#\ServerApp\ServerApp\bin\Debug\net8.0\ServerApp.pdb
+E:\wpfc#\ServerApp\ServerApp\obj\Debug\net8.0\ServerApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\wpfc#\ServerApp\ServerApp\obj\Debug\net8.0\ServerApp.AssemblyInfoInputs.cache
+E:\wpfc#\ServerApp\ServerApp\obj\Debug\net8.0\ServerApp.AssemblyInfo.cs
+E:\wpfc#\ServerApp\ServerApp\obj\Debug\net8.0\ServerApp.csproj.CoreCompileInputs.cache
+E:\wpfc#\ServerApp\ServerApp\obj\Debug\net8.0\ServerApp.dll
+E:\wpfc#\ServerApp\ServerApp\obj\Debug\net8.0\refint\ServerApp.dll
+E:\wpfc#\ServerApp\ServerApp\obj\Debug\net8.0\ServerApp.pdb
+E:\wpfc#\ServerApp\ServerApp\obj\Debug\net8.0\ServerApp.genruntimeconfig.cache
+E:\wpfc#\ServerApp\ServerApp\obj\Debug\net8.0\ref\ServerApp.dll
