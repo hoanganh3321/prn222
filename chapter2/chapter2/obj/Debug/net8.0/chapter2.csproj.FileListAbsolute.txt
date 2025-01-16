@@ -1,0 +1,14 @@
+E:\wpfc#\chapter2\chapter2\bin\Debug\net8.0\chapter2.exe
+E:\wpfc#\chapter2\chapter2\bin\Debug\net8.0\chapter2.deps.json
+E:\wpfc#\chapter2\chapter2\bin\Debug\net8.0\chapter2.runtimeconfig.json
+E:\wpfc#\chapter2\chapter2\bin\Debug\net8.0\chapter2.dll
+E:\wpfc#\chapter2\chapter2\bin\Debug\net8.0\chapter2.pdb
+E:\wpfc#\chapter2\chapter2\obj\Debug\net8.0\chapter2.GeneratedMSBuildEditorConfig.editorconfig
+E:\wpfc#\chapter2\chapter2\obj\Debug\net8.0\chapter2.AssemblyInfoInputs.cache
+E:\wpfc#\chapter2\chapter2\obj\Debug\net8.0\chapter2.AssemblyInfo.cs
+E:\wpfc#\chapter2\chapter2\obj\Debug\net8.0\chapter2.csproj.CoreCompileInputs.cache
+E:\wpfc#\chapter2\chapter2\obj\Debug\net8.0\chapter2.dll
+E:\wpfc#\chapter2\chapter2\obj\Debug\net8.0\refint\chapter2.dll
+E:\wpfc#\chapter2\chapter2\obj\Debug\net8.0\chapter2.pdb
+E:\wpfc#\chapter2\chapter2\obj\Debug\net8.0\chapter2.genruntimeconfig.cache
+E:\wpfc#\chapter2\chapter2\obj\Debug\net8.0\ref\chapter2.dll
