@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\wpfc#\\ServerApp\\ConsoleApp1\\ClientApp.csproj": {}
+    "E:\\wpfc#\\gitPRN222\\ServerApp\\ConsoleApp1\\ClientApp.csproj": {}
   },
   "projects": {
-    "E:\\wpfc#\\ServerApp\\ConsoleApp1\\ClientApp.csproj": {
+    "E:\\wpfc#\\gitPRN222\\ServerApp\\ConsoleApp1\\ClientApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\wpfc#\\ServerApp\\ConsoleApp1\\ClientApp.csproj",
+        "projectUniqueName": "E:\\wpfc#\\gitPRN222\\ServerApp\\ConsoleApp1\\ClientApp.csproj",
         "projectName": "ClientApp",
-        "projectPath": "E:\\wpfc#\\ServerApp\\ConsoleApp1\\ClientApp.csproj",
+        "projectPath": "E:\\wpfc#\\gitPRN222\\ServerApp\\ConsoleApp1\\ClientApp.csproj",
         "packagesPath": "C:\\Users\\VICTUS HELLO\\.nuget\\packages\\",
-        "outputPath": "E:\\wpfc#\\ServerApp\\ConsoleApp1\\obj\\",
+        "outputPath": "E:\\wpfc#\\gitPRN222\\ServerApp\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\VICTUS HELLO\\AppData\\Roaming\\NuGet\\NuGet.Config",

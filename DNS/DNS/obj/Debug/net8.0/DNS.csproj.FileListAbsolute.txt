@@ -1,0 +1,14 @@
+E:\wpfc#\DNS\DNS\bin\Debug\net8.0\DNS.exe
+E:\wpfc#\DNS\DNS\bin\Debug\net8.0\DNS.deps.json
+E:\wpfc#\DNS\DNS\bin\Debug\net8.0\DNS.runtimeconfig.json
+E:\wpfc#\DNS\DNS\bin\Debug\net8.0\DNS.dll
+E:\wpfc#\DNS\DNS\bin\Debug\net8.0\DNS.pdb
+E:\wpfc#\DNS\DNS\obj\Debug\net8.0\DNS.GeneratedMSBuildEditorConfig.editorconfig
+E:\wpfc#\DNS\DNS\obj\Debug\net8.0\DNS.AssemblyInfoInputs.cache
+E:\wpfc#\DNS\DNS\obj\Debug\net8.0\DNS.AssemblyInfo.cs
+E:\wpfc#\DNS\DNS\obj\Debug\net8.0\DNS.csproj.CoreCompileInputs.cache
+E:\wpfc#\DNS\DNS\obj\Debug\net8.0\DNS.dll
+E:\wpfc#\DNS\DNS\obj\Debug\net8.0\refint\DNS.dll
+E:\wpfc#\DNS\DNS\obj\Debug\net8.0\DNS.pdb
+E:\wpfc#\DNS\DNS\obj\Debug\net8.0\DNS.genruntimeconfig.cache
+E:\wpfc#\DNS\DNS\obj\Debug\net8.0\ref\DNS.dll
