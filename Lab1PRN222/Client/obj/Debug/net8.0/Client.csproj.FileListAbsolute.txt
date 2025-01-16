@@ -1,0 +1,14 @@
+E:\wpfc#\Lab1PRN222\Client\bin\Debug\net8.0\Client.exe
+E:\wpfc#\Lab1PRN222\Client\bin\Debug\net8.0\Client.deps.json
+E:\wpfc#\Lab1PRN222\Client\bin\Debug\net8.0\Client.runtimeconfig.json
+E:\wpfc#\Lab1PRN222\Client\bin\Debug\net8.0\Client.dll
+E:\wpfc#\Lab1PRN222\Client\bin\Debug\net8.0\Client.pdb
+E:\wpfc#\Lab1PRN222\Client\obj\Debug\net8.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+E:\wpfc#\Lab1PRN222\Client\obj\Debug\net8.0\Client.AssemblyInfoInputs.cache
+E:\wpfc#\Lab1PRN222\Client\obj\Debug\net8.0\Client.AssemblyInfo.cs
+E:\wpfc#\Lab1PRN222\Client\obj\Debug\net8.0\Client.csproj.CoreCompileInputs.cache
+E:\wpfc#\Lab1PRN222\Client\obj\Debug\net8.0\Client.dll
+E:\wpfc#\Lab1PRN222\Client\obj\Debug\net8.0\refint\Client.dll
+E:\wpfc#\Lab1PRN222\Client\obj\Debug\net8.0\Client.pdb
+E:\wpfc#\Lab1PRN222\Client\obj\Debug\net8.0\Client.genruntimeconfig.cache
+E:\wpfc#\Lab1PRN222\Client\obj\Debug\net8.0\ref\Client.dll
