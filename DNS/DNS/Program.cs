@@ -1,5 +1,5 @@
 ﻿using System.Net;
-
+//truy vấn thông tin DNS (Domain Name System) cho hai tên miền: www.contoso.com và 127.0.0.1 (localhost).
 namespace DNS
 {
     internal class Program

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\wpfc#\\DNS\\DNS\\DNS.csproj",
+      "projectUniqueName": "E:\\wpfc#\\gitPRN222\\DNS\\DNS\\DNS.csproj",
       "projectName": "DNS",
-      "projectPath": "E:\\wpfc#\\DNS\\DNS\\DNS.csproj",
+      "projectPath": "E:\\wpfc#\\gitPRN222\\DNS\\DNS\\DNS.csproj",
       "packagesPath": "C:\\Users\\VICTUS HELLO\\.nuget\\packages\\",
-      "outputPath": "E:\\wpfc#\\DNS\\DNS\\obj\\",
+      "outputPath": "E:\\wpfc#\\gitPRN222\\DNS\\DNS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\VICTUS HELLO\\AppData\\Roaming\\NuGet\\NuGet.Config",

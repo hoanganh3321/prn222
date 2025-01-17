@@ -1,0 +1,15 @@
+E:\wpfc#\gitPRN222\chapter2_02\chapter2_02\bin\Debug\net8.0\chapter2_02.exe
+E:\wpfc#\gitPRN222\chapter2_02\chapter2_02\bin\Debug\net8.0\chapter2_02.deps.json
+E:\wpfc#\gitPRN222\chapter2_02\chapter2_02\bin\Debug\net8.0\chapter2_02.runtimeconfig.json
+E:\wpfc#\gitPRN222\chapter2_02\chapter2_02\bin\Debug\net8.0\chapter2_02.dll
+E:\wpfc#\gitPRN222\chapter2_02\chapter2_02\bin\Debug\net8.0\chapter2_02.pdb
+E:\wpfc#\gitPRN222\chapter2_02\chapter2_02\obj\Debug\net8.0\chapter2_02.GeneratedMSBuildEditorConfig.editorconfig
+E:\wpfc#\gitPRN222\chapter2_02\chapter2_02\obj\Debug\net8.0\chapter2_02.AssemblyInfoInputs.cache
+E:\wpfc#\gitPRN222\chapter2_02\chapter2_02\obj\Debug\net8.0\chapter2_02.AssemblyInfo.cs
+E:\wpfc#\gitPRN222\chapter2_02\chapter2_02\obj\Debug\net8.0\chapter2_02.csproj.CoreCompileInputs.cache
+E:\wpfc#\gitPRN222\chapter2_02\chapter2_02\obj\Debug\net8.0\chapter2_02.sourcelink.json
+E:\wpfc#\gitPRN222\chapter2_02\chapter2_02\obj\Debug\net8.0\chapter2_02.dll
+E:\wpfc#\gitPRN222\chapter2_02\chapter2_02\obj\Debug\net8.0\refint\chapter2_02.dll
+E:\wpfc#\gitPRN222\chapter2_02\chapter2_02\obj\Debug\net8.0\chapter2_02.pdb
+E:\wpfc#\gitPRN222\chapter2_02\chapter2_02\obj\Debug\net8.0\chapter2_02.genruntimeconfig.cache
+E:\wpfc#\gitPRN222\chapter2_02\chapter2_02\obj\Debug\net8.0\ref\chapter2_02.dll

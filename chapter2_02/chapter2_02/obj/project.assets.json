@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\wpfc#\\chapter2_02\\chapter2_02\\chapter2_02.csproj",
+      "projectUniqueName": "E:\\wpfc#\\gitPRN222\\chapter2_02\\chapter2_02\\chapter2_02.csproj",
       "projectName": "chapter2_02",
-      "projectPath": "E:\\wpfc#\\chapter2_02\\chapter2_02\\chapter2_02.csproj",
+      "projectPath": "E:\\wpfc#\\gitPRN222\\chapter2_02\\chapter2_02\\chapter2_02.csproj",
       "packagesPath": "C:\\Users\\VICTUS HELLO\\.nuget\\packages\\",
-      "outputPath": "E:\\wpfc#\\chapter2_02\\chapter2_02\\obj\\",
+      "outputPath": "E:\\wpfc#\\gitPRN222\\chapter2_02\\chapter2_02\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\VICTUS HELLO\\AppData\\Roaming\\NuGet\\NuGet.Config",

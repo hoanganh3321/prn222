@@ -1,5 +1,6 @@
 ﻿namespace chapter2_02
 {
+    //thực hiện các công việc bất đồng bộ, đồng thời in thông tin liên quan đến từng tác vụ và xử lý các ngoại lệ (nếu có)
     internal class Program
     {
         static void Main()

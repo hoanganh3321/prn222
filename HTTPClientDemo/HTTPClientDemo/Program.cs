@@ -1,5 +1,6 @@
 ﻿namespace HTTPClientDemo
 {
+    // thực hiện một HTTP GET request đến một URL và in ra nội dung phản hồi từ máy chủ
     internal class Program
     {
         static readonly HttpClient client = new HttpClient();

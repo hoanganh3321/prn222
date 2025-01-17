@@ -1,5 +1,6 @@
 ﻿namespace UriDemo
 {
+    // các phương thức và thuộc tính giúp phân tích và thao tác với địa chỉ URL
     internal class Program
     {
         static void Main(string[] args)

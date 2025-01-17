@@ -1,0 +1,15 @@
+E:\wpfc#\gitPRN222\HTTPClientDemo\HTTPClientDemo\bin\Debug\net8.0\HTTPClientDemo.exe
+E:\wpfc#\gitPRN222\HTTPClientDemo\HTTPClientDemo\bin\Debug\net8.0\HTTPClientDemo.deps.json
+E:\wpfc#\gitPRN222\HTTPClientDemo\HTTPClientDemo\bin\Debug\net8.0\HTTPClientDemo.runtimeconfig.json
+E:\wpfc#\gitPRN222\HTTPClientDemo\HTTPClientDemo\bin\Debug\net8.0\HTTPClientDemo.dll
+E:\wpfc#\gitPRN222\HTTPClientDemo\HTTPClientDemo\bin\Debug\net8.0\HTTPClientDemo.pdb
+E:\wpfc#\gitPRN222\HTTPClientDemo\HTTPClientDemo\obj\Debug\net8.0\HTTPClientDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\wpfc#\gitPRN222\HTTPClientDemo\HTTPClientDemo\obj\Debug\net8.0\HTTPClientDemo.AssemblyInfoInputs.cache
+E:\wpfc#\gitPRN222\HTTPClientDemo\HTTPClientDemo\obj\Debug\net8.0\HTTPClientDemo.AssemblyInfo.cs
+E:\wpfc#\gitPRN222\HTTPClientDemo\HTTPClientDemo\obj\Debug\net8.0\HTTPClientDemo.csproj.CoreCompileInputs.cache
+E:\wpfc#\gitPRN222\HTTPClientDemo\HTTPClientDemo\obj\Debug\net8.0\HTTPClientDemo.sourcelink.json
+E:\wpfc#\gitPRN222\HTTPClientDemo\HTTPClientDemo\obj\Debug\net8.0\HTTPClientDemo.dll
+E:\wpfc#\gitPRN222\HTTPClientDemo\HTTPClientDemo\obj\Debug\net8.0\refint\HTTPClientDemo.dll
+E:\wpfc#\gitPRN222\HTTPClientDemo\HTTPClientDemo\obj\Debug\net8.0\HTTPClientDemo.pdb
+E:\wpfc#\gitPRN222\HTTPClientDemo\HTTPClientDemo\obj\Debug\net8.0\HTTPClientDemo.genruntimeconfig.cache
+E:\wpfc#\gitPRN222\HTTPClientDemo\HTTPClientDemo\obj\Debug\net8.0\ref\HTTPClientDemo.dll

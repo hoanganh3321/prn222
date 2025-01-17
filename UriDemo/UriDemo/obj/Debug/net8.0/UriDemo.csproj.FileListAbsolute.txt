@@ -1,0 +1,15 @@
+E:\wpfc#\gitPRN222\UriDemo\UriDemo\bin\Debug\net8.0\UriDemo.exe
+E:\wpfc#\gitPRN222\UriDemo\UriDemo\bin\Debug\net8.0\UriDemo.deps.json
+E:\wpfc#\gitPRN222\UriDemo\UriDemo\bin\Debug\net8.0\UriDemo.runtimeconfig.json
+E:\wpfc#\gitPRN222\UriDemo\UriDemo\bin\Debug\net8.0\UriDemo.dll
+E:\wpfc#\gitPRN222\UriDemo\UriDemo\bin\Debug\net8.0\UriDemo.pdb
+E:\wpfc#\gitPRN222\UriDemo\UriDemo\obj\Debug\net8.0\UriDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\wpfc#\gitPRN222\UriDemo\UriDemo\obj\Debug\net8.0\UriDemo.AssemblyInfoInputs.cache
+E:\wpfc#\gitPRN222\UriDemo\UriDemo\obj\Debug\net8.0\UriDemo.AssemblyInfo.cs
+E:\wpfc#\gitPRN222\UriDemo\UriDemo\obj\Debug\net8.0\UriDemo.csproj.CoreCompileInputs.cache
+E:\wpfc#\gitPRN222\UriDemo\UriDemo\obj\Debug\net8.0\UriDemo.sourcelink.json
+E:\wpfc#\gitPRN222\UriDemo\UriDemo\obj\Debug\net8.0\UriDemo.dll
+E:\wpfc#\gitPRN222\UriDemo\UriDemo\obj\Debug\net8.0\refint\UriDemo.dll
+E:\wpfc#\gitPRN222\UriDemo\UriDemo\obj\Debug\net8.0\UriDemo.pdb
+E:\wpfc#\gitPRN222\UriDemo\UriDemo\obj\Debug\net8.0\UriDemo.genruntimeconfig.cache
+E:\wpfc#\gitPRN222\UriDemo\UriDemo\obj\Debug\net8.0\ref\UriDemo.dll

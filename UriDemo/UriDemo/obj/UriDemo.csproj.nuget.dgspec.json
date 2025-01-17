@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\wpfc#\\UriDemo\\UriDemo\\UriDemo.csproj": {}
+    "E:\\wpfc#\\gitPRN222\\UriDemo\\UriDemo\\UriDemo.csproj": {}
   },
   "projects": {
-    "E:\\wpfc#\\UriDemo\\UriDemo\\UriDemo.csproj": {
+    "E:\\wpfc#\\gitPRN222\\UriDemo\\UriDemo\\UriDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\wpfc#\\UriDemo\\UriDemo\\UriDemo.csproj",
+        "projectUniqueName": "E:\\wpfc#\\gitPRN222\\UriDemo\\UriDemo\\UriDemo.csproj",
         "projectName": "UriDemo",
-        "projectPath": "E:\\wpfc#\\UriDemo\\UriDemo\\UriDemo.csproj",
+        "projectPath": "E:\\wpfc#\\gitPRN222\\UriDemo\\UriDemo\\UriDemo.csproj",
         "packagesPath": "C:\\Users\\VICTUS HELLO\\.nuget\\packages\\",
-        "outputPath": "E:\\wpfc#\\UriDemo\\UriDemo\\obj\\",
+        "outputPath": "E:\\wpfc#\\gitPRN222\\UriDemo\\UriDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\VICTUS HELLO\\AppData\\Roaming\\NuGet\\NuGet.Config",

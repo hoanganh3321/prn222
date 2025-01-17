@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\wpfc#\\Lab1PRN222\\Client\\Client.csproj": {}
+    "E:\\wpfc#\\gitPRN222\\Lab1PRN222\\Client\\Client.csproj": {}
   },
   "projects": {
-    "E:\\wpfc#\\Lab1PRN222\\Client\\Client.csproj": {
+    "E:\\wpfc#\\gitPRN222\\Lab1PRN222\\Client\\Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\wpfc#\\Lab1PRN222\\Client\\Client.csproj",
+        "projectUniqueName": "E:\\wpfc#\\gitPRN222\\Lab1PRN222\\Client\\Client.csproj",
         "projectName": "Client",
-        "projectPath": "E:\\wpfc#\\Lab1PRN222\\Client\\Client.csproj",
+        "projectPath": "E:\\wpfc#\\gitPRN222\\Lab1PRN222\\Client\\Client.csproj",
         "packagesPath": "C:\\Users\\VICTUS HELLO\\.nuget\\packages\\",
-        "outputPath": "E:\\wpfc#\\Lab1PRN222\\Client\\obj\\",
+        "outputPath": "E:\\wpfc#\\gitPRN222\\Lab1PRN222\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\VICTUS HELLO\\AppData\\Roaming\\NuGet\\NuGet.Config",
