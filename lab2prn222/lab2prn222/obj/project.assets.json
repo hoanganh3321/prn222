@@ -1,11 +1,38 @@
 {
   "version": 3,
   "targets": {
-    "net8.0-windows7.0": {}
+    "net8.0-windows7.0": {
+      "WatermarkTextbox/1.0.2": {
+        "type": "package",
+        "compile": {
+          "lib/WatermarkTextbox.dll": {}
+        },
+        "runtime": {
+          "lib/WatermarkTextbox.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "WatermarkTextbox/1.0.2": {
+      "sha512": "uE0TLhMniW5P+cUUIhFgcO5u/IddtNpv2YZnvLWsk+RfDQ8Out0B3vUC8tXV0IcYo6V5FOAQ5NAcGzvCVssVNw==",
+      "type": "package",
+      "path": "watermarktextbox/1.0.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/WatermarkTextbox.dll",
+        "lib/WatermarkTextbox.pri",
+        "lib/WatermarkTextbox/Themes/generic.xaml",
+        "watermarktextbox.1.0.2.nupkg.sha512",
+        "watermarktextbox.nuspec"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0-windows7.0": []
+    "net8.0-windows7.0": [
+      "WatermarkTextbox >= 1.0.2"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\VICTUS HELLO\\.nuget\\packages\\": {}
@@ -13,11 +40,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\wpfc#\\lab2prn222\\lab2prn222\\lab2prn222.csproj",
+      "projectUniqueName": "E:\\wpfc#\\gitPRN222\\lab2prn222\\lab2prn222\\lab2prn222.csproj",
       "projectName": "lab2prn222",
-      "projectPath": "E:\\wpfc#\\lab2prn222\\lab2prn222\\lab2prn222.csproj",
+      "projectPath": "E:\\wpfc#\\gitPRN222\\lab2prn222\\lab2prn222\\lab2prn222.csproj",
       "packagesPath": "C:\\Users\\VICTUS HELLO\\.nuget\\packages\\",
-      "outputPath": "E:\\wpfc#\\lab2prn222\\lab2prn222\\obj\\",
+      "outputPath": "E:\\wpfc#\\gitPRN222\\lab2prn222\\lab2prn222\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\VICTUS HELLO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +72,12 @@
     "frameworks": {
       "net8.0-windows7.0": {
         "targetAlias": "net8.0-windows",
+        "dependencies": {
+          "WatermarkTextbox": {
+            "target": "Package",
+            "version": "[1.0.2, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",
@@ -67,5 +100,17 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'WatermarkTextbox 1.0.2' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "WatermarkTextbox",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    }
+  ]
 }

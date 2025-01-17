@@ -6,6 +6,14 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
+      "lab2prn222/1.0.0": {
+        "dependencies": {
+          "WatermarkTextbox": "1.0.2"
+        },
+        "runtime": {
+          "lab2prn222.dll": {}
+        }
+      },
       "WatermarkTextbox/1.0.2": {
         "runtime": {
           "lib/WatermarkTextbox.dll": {
@@ -17,6 +25,11 @@
     }
   },
   "libraries": {
+    "lab2prn222/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "WatermarkTextbox/1.0.2": {
       "type": "package",
       "serviceable": true,

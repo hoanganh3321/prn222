@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\wpfc#\\lab2prn222\\lab2prn222\\lab2prn222.csproj": {}
+    "E:\\wpfc#\\gitPRN222\\lab2prn222\\lab2prn222\\lab2prn222.csproj": {}
   },
   "projects": {
-    "E:\\wpfc#\\lab2prn222\\lab2prn222\\lab2prn222.csproj": {
+    "E:\\wpfc#\\gitPRN222\\lab2prn222\\lab2prn222\\lab2prn222.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\wpfc#\\lab2prn222\\lab2prn222\\lab2prn222.csproj",
+        "projectUniqueName": "E:\\wpfc#\\gitPRN222\\lab2prn222\\lab2prn222\\lab2prn222.csproj",
         "projectName": "lab2prn222",
-        "projectPath": "E:\\wpfc#\\lab2prn222\\lab2prn222\\lab2prn222.csproj",
+        "projectPath": "E:\\wpfc#\\gitPRN222\\lab2prn222\\lab2prn222\\lab2prn222.csproj",
         "packagesPath": "C:\\Users\\VICTUS HELLO\\.nuget\\packages\\",
-        "outputPath": "E:\\wpfc#\\lab2prn222\\lab2prn222\\obj\\",
+        "outputPath": "E:\\wpfc#\\gitPRN222\\lab2prn222\\lab2prn222\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\VICTUS HELLO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,12 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "WatermarkTextbox": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

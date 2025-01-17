@@ -18,7 +18,7 @@ namespace lab2prn222
     {
         public MainWindow()
         {
-            InitializeComponent();
+            
         }
     }
 }
