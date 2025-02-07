@@ -1,0 +1,15 @@
+E:\wpfc#\gitPRN222\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\PLINQ.GeneratedMSBuildEditorConfig.editorconfig
+E:\wpfc#\gitPRN222\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\PLINQ.AssemblyInfoInputs.cache
+E:\wpfc#\gitPRN222\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\PLINQ.AssemblyInfo.cs
+E:\wpfc#\gitPRN222\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\PLINQ.csproj.CoreCompileInputs.cache
+E:\wpfc#\gitPRN222\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\PLINQ.sourcelink.json
+E:\wpfc#\gitPRN222\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\PLINQ.exe
+E:\wpfc#\gitPRN222\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\PLINQ.deps.json
+E:\wpfc#\gitPRN222\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\PLINQ.runtimeconfig.json
+E:\wpfc#\gitPRN222\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\PLINQ.dll
+E:\wpfc#\gitPRN222\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\PLINQ.pdb
+E:\wpfc#\gitPRN222\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\PLINQ.dll
+E:\wpfc#\gitPRN222\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\PLINQ.dll
+E:\wpfc#\gitPRN222\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\PLINQ.pdb
+E:\wpfc#\gitPRN222\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\PLINQ.genruntimeconfig.cache
+E:\wpfc#\gitPRN222\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\PLINQ.dll

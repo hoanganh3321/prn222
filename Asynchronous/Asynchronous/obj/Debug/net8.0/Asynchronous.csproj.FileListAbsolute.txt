@@ -1,0 +1,15 @@
+E:\wpfc#\gitPRN222\Asynchronous\Asynchronous\bin\Debug\net8.0\Asynchronous.exe
+E:\wpfc#\gitPRN222\Asynchronous\Asynchronous\bin\Debug\net8.0\Asynchronous.deps.json
+E:\wpfc#\gitPRN222\Asynchronous\Asynchronous\bin\Debug\net8.0\Asynchronous.runtimeconfig.json
+E:\wpfc#\gitPRN222\Asynchronous\Asynchronous\bin\Debug\net8.0\Asynchronous.dll
+E:\wpfc#\gitPRN222\Asynchronous\Asynchronous\bin\Debug\net8.0\Asynchronous.pdb
+E:\wpfc#\gitPRN222\Asynchronous\Asynchronous\obj\Debug\net8.0\Asynchronous.GeneratedMSBuildEditorConfig.editorconfig
+E:\wpfc#\gitPRN222\Asynchronous\Asynchronous\obj\Debug\net8.0\Asynchronous.AssemblyInfoInputs.cache
+E:\wpfc#\gitPRN222\Asynchronous\Asynchronous\obj\Debug\net8.0\Asynchronous.AssemblyInfo.cs
+E:\wpfc#\gitPRN222\Asynchronous\Asynchronous\obj\Debug\net8.0\Asynchronous.csproj.CoreCompileInputs.cache
+E:\wpfc#\gitPRN222\Asynchronous\Asynchronous\obj\Debug\net8.0\Asynchronous.sourcelink.json
+E:\wpfc#\gitPRN222\Asynchronous\Asynchronous\obj\Debug\net8.0\Asynchronous.dll
+E:\wpfc#\gitPRN222\Asynchronous\Asynchronous\obj\Debug\net8.0\refint\Asynchronous.dll
+E:\wpfc#\gitPRN222\Asynchronous\Asynchronous\obj\Debug\net8.0\Asynchronous.pdb
+E:\wpfc#\gitPRN222\Asynchronous\Asynchronous\obj\Debug\net8.0\Asynchronous.genruntimeconfig.cache
+E:\wpfc#\gitPRN222\Asynchronous\Asynchronous\obj\Debug\net8.0\ref\Asynchronous.dll

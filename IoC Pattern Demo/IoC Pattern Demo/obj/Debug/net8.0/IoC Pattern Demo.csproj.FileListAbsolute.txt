@@ -1,0 +1,5 @@
+E:\wpfc#\gitPRN222\IoC Pattern Demo\IoC Pattern Demo\obj\Debug\net8.0\IoC Pattern Demo.GeneratedMSBuildEditorConfig.editorconfig
+E:\wpfc#\gitPRN222\IoC Pattern Demo\IoC Pattern Demo\obj\Debug\net8.0\IoC Pattern Demo.AssemblyInfoInputs.cache
+E:\wpfc#\gitPRN222\IoC Pattern Demo\IoC Pattern Demo\obj\Debug\net8.0\IoC Pattern Demo.AssemblyInfo.cs
+E:\wpfc#\gitPRN222\IoC Pattern Demo\IoC Pattern Demo\obj\Debug\net8.0\IoC Pattern Demo.csproj.CoreCompileInputs.cache
+E:\wpfc#\gitPRN222\IoC Pattern Demo\IoC Pattern Demo\obj\Debug\net8.0\IoC Pattern Demo.sourcelink.json

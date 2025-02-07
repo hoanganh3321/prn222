@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CZ9xNbUEGXm4V5cUq8RHB4zNo9yiHu8IiLBOZCVo2XLHWSCKlLziSrzAPeZ7G01F6+V4UJEgWTyfUfBtc0Tj0Q==",
+  "success": true,
+  "projectFilePath": "E:\\wpfc#\\gitPRN222\\Open_ClosedPrincipleDemo\\Open_ClosedPrincipleDemo\\Open_ClosedPrincipleDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VICTUS HELLO\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\VICTUS HELLO\\.nuget\\packages\\newtonsoft.json.bson\\1.0.3\\newtonsoft.json.bson.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
