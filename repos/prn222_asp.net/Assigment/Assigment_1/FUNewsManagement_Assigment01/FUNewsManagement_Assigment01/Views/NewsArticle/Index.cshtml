@@ -1,0 +1,75 @@
+﻿@model IEnumerable<FUNewsManagement_Assigment01.Models.NewsArticle>
+@{
+    ViewData["Title"] = "News Article";
+}
+
+<div class="container-fluid py-4">
+    <!-- Header Section -->
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <h2 class="text-primary font-weight-bold">News Articles</h2>
+        <a asp-action="Create" class="btn btn-primary">
+            <i class="fas fa-plus me-2"></i>Create New Article
+        </a>
+    </div>
+
+    <!-- Table Card -->
+    <div class="card shadow">
+        <div class="card-body">
+            <div class="table-responsive">
+                <table class="table table-hover align-middle">
+                    <thead class="table-light">
+                        <tr>
+                            <th>@Html.DisplayNameFor(model => model.NewsTitle)</th>
+                            <th>@Html.DisplayNameFor(model => model.Headline)</th>
+                            <th>@Html.DisplayNameFor(model => model.CreatedDate)</th>
+                            <th>@Html.DisplayNameFor(model => model.NewsSource)</th>
+                            <th>@Html.DisplayNameFor(model => model.Category)</th>
+                            <th>Status</th>
+                            <th>Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td class="text-wrap" style="max-width: 200px;">
+                                    <div class="fw-bold">@item.NewsTitle</div>
+                                </td>
+                                <td class="text-wrap" style="max-width: 250px;">
+                                    @item.Headline
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.CreatedDate)
+                                </td>
+                                <td>@item.NewsSource</td>
+                                <td>@item.Category.CategoryName</td>
+                                <td>
+                                    <span class="badge @(item.NewsStatus == true ? "bg-success" :
+                                            item.NewsStatus == false ? "bg-warning" : "bg-secondary")">
+                                        @(item.NewsStatus == true ? "Active" : "Inactive")
+                                    </span>
+                                </td>
+                                <td>
+                                    <div class="btn-group">
+                                        <a asp-action="Edit" asp-route-id="@item.NewsArticleId"
+                                           class="btn btn-sm btn-outline-primary">
+                                            <i class="fas fa-edit"></i>
+                                        </a>
+                                        <a asp-action="Detail" asp-route-id="@item.NewsArticleId"
+                                           class="btn btn-sm btn-outline-info">
+                                            <i class="fas fa-info-circle"></i>
+                                        </a>
+                                        <a asp-action="Delete" asp-route-id="@item.NewsArticleId"
+                                           class="btn btn-sm btn-outline-danger">
+                                            <i class="fas fa-trash"></i>
+                                        </a>
+                                    </div>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

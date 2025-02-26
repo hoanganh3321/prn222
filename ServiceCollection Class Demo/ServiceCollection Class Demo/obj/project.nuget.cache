@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gSrLi6Tc6dzLsr8x/sb4T+jkqI7gypEc6jRTZU/yMSKxi/p8EWxB563rh8rEEDdOPNN+UteFS9v9FcHJBo0BjA==",
+  "success": true,
+  "projectFilePath": "E:\\wpfc#\\gitPRN222\\ServiceCollection Class Demo\\ServiceCollection Class Demo\\ServiceCollection Class Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VICTUS HELLO\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.1\\microsoft.extensions.dependencyinjection.9.0.1.nupkg.sha512",
+    "C:\\Users\\VICTUS HELLO\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.1\\microsoft.extensions.dependencyinjection.abstractions.9.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

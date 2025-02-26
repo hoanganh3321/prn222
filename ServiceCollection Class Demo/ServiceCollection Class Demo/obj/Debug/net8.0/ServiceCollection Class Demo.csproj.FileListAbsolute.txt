@@ -1,0 +1,19 @@
+E:\wpfc#\gitPRN222\ServiceCollection Class Demo\ServiceCollection Class Demo\bin\Debug\net8.0\ServiceCollection Class Demo.exe
+E:\wpfc#\gitPRN222\ServiceCollection Class Demo\ServiceCollection Class Demo\bin\Debug\net8.0\ServiceCollection Class Demo.deps.json
+E:\wpfc#\gitPRN222\ServiceCollection Class Demo\ServiceCollection Class Demo\bin\Debug\net8.0\ServiceCollection Class Demo.runtimeconfig.json
+E:\wpfc#\gitPRN222\ServiceCollection Class Demo\ServiceCollection Class Demo\bin\Debug\net8.0\ServiceCollection Class Demo.dll
+E:\wpfc#\gitPRN222\ServiceCollection Class Demo\ServiceCollection Class Demo\bin\Debug\net8.0\ServiceCollection Class Demo.pdb
+E:\wpfc#\gitPRN222\ServiceCollection Class Demo\ServiceCollection Class Demo\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\wpfc#\gitPRN222\ServiceCollection Class Demo\ServiceCollection Class Demo\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\wpfc#\gitPRN222\ServiceCollection Class Demo\ServiceCollection Class Demo\obj\Debug\net8.0\ServiceCollection Class Demo.csproj.AssemblyReference.cache
+E:\wpfc#\gitPRN222\ServiceCollection Class Demo\ServiceCollection Class Demo\obj\Debug\net8.0\ServiceCollection Class Demo.GeneratedMSBuildEditorConfig.editorconfig
+E:\wpfc#\gitPRN222\ServiceCollection Class Demo\ServiceCollection Class Demo\obj\Debug\net8.0\ServiceCollection Class Demo.AssemblyInfoInputs.cache
+E:\wpfc#\gitPRN222\ServiceCollection Class Demo\ServiceCollection Class Demo\obj\Debug\net8.0\ServiceCollection Class Demo.AssemblyInfo.cs
+E:\wpfc#\gitPRN222\ServiceCollection Class Demo\ServiceCollection Class Demo\obj\Debug\net8.0\ServiceCollection Class Demo.csproj.CoreCompileInputs.cache
+E:\wpfc#\gitPRN222\ServiceCollection Class Demo\ServiceCollection Class Demo\obj\Debug\net8.0\ServiceCollection Class Demo.sourcelink.json
+E:\wpfc#\gitPRN222\ServiceCollection Class Demo\ServiceCollection Class Demo\obj\Debug\net8.0\ServiceCollection Class Demo.csproj.CopyComplete
+E:\wpfc#\gitPRN222\ServiceCollection Class Demo\ServiceCollection Class Demo\obj\Debug\net8.0\ServiceCollection Class Demo.dll
+E:\wpfc#\gitPRN222\ServiceCollection Class Demo\ServiceCollection Class Demo\obj\Debug\net8.0\refint\ServiceCollection Class Demo.dll
+E:\wpfc#\gitPRN222\ServiceCollection Class Demo\ServiceCollection Class Demo\obj\Debug\net8.0\ServiceCollection Class Demo.pdb
+E:\wpfc#\gitPRN222\ServiceCollection Class Demo\ServiceCollection Class Demo\obj\Debug\net8.0\ServiceCollection Class Demo.genruntimeconfig.cache
+E:\wpfc#\gitPRN222\ServiceCollection Class Demo\ServiceCollection Class Demo\obj\Debug\net8.0\ref\ServiceCollection Class Demo.dll

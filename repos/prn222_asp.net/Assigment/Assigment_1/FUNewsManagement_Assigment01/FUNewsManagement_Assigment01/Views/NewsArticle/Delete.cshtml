@@ -1,0 +1,56 @@
+﻿@model FUNewsManagement_Assigment01.Models.NewsArticle
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<div class="delete-container">
+    <div class="delete-header">
+        <h1 class="delete-title">Delete Article</h1>
+        <p class="delete-warning">Are you sure you want to delete this article? This action cannot be undone.</p>
+    </div>
+
+    <div class="article-preview">
+        <h2 class="preview-title">@Model.NewsTitle</h2>
+
+        <div class="info-grid">
+            <div class="info-item">
+                <div class="info-label">Headline</div>
+                <div class="info-value">@Model.Headline</div>
+            </div>
+            <div class="info-item">
+                <div class="info-label">Category</div>
+                <div class="info-value">@Model.Category.CategoryId</div>
+            </div>
+            <div class="info-item">
+                <div class="info-label">Created Date</div>
+                <div class="info-value">@Html.DisplayFor(modelItem => Model.CreatedDate)</div>
+            </div>
+            <div class="info-item">
+                <div class="info-label">Status</div>
+                <div class="info-value">
+                    <span class="status-badge">@Model.NewsStatus</span>
+                </div>
+            </div>
+            <div class="info-item">
+                <div class="info-label">Source</div>
+                <div class="info-value">@Model.NewsSource</div>
+            </div>
+            <div class="info-item">
+                <div class="info-label">Created By</div>
+                <div class="info-value">@Model.CreatedBy.AccountId</div>
+            </div>
+        </div>
+
+        <div class="content-section">
+            <div class="content-label">Content</div>
+            <div class="content-value">@Model.NewsContent</div>
+        </div>
+    </div>
+
+    <form asp-action="Delete" class="action-buttons">
+        <input type="hidden" asp-for="NewsArticleId" />
+        <input type="submit" value="Confirm Delete" class="btn btn-delete" />
+        <a asp-action="Index" class="btn btn-cancel">Cancel</a>
+    </form>
+</div>

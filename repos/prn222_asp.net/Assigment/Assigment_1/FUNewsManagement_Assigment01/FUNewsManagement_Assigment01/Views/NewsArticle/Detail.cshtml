@@ -1,0 +1,68 @@
+﻿@model FUNewsManagement_Assigment01.Models.NewsArticle
+
+@{
+    ViewData["Title"] = "Detail";
+}
+
+<div class="article-detail-container">
+    <div class="page-header">
+        <h1 class="page-title">Article Details</h1>
+        <p class="article-subtitle">Comprehensive view of the news article</p>
+    </div>
+
+    <div class="content-section">
+        <h2 class="content-title">@Model.NewsTitle</h2>
+        <div class="detail-grid">
+            <div class="detail-card">
+                <div class="detail-label">Headline</div>
+                <div class="detail-value">@Model.Headline</div>
+            </div>
+            <div class="detail-card">
+                <div class="detail-label">Category</div>
+                <div class="detail-value">@Model.Category.CategoryId</div>
+            </div>
+        </div>
+
+        <div class="detail-card" style="margin-top: 2rem;">
+            <div class="detail-label">Content</div>
+            <div class="detail-value">@Model.NewsContent</div>
+        </div>
+    </div>
+
+    <div class="metadata-section">
+        <h3 class="content-title">Article Metadata</h3>
+        <div class="metadata-grid">
+            <div class="detail-card">
+                <div class="detail-label">Created Date</div>
+                <div class="detail-value">@Html.DisplayFor(modelItem => Model.CreatedDate)</div>
+            </div>
+            <div class="detail-card">
+                <div class="detail-label">Created By</div>
+                <div class="detail-value">@Model.CreatedBy.AccountId</div>
+            </div>
+            <div class="detail-card">
+                <div class="detail-label">Status</div>
+                <div class="detail-value">
+                    <span class="status-badge status-active">@Model.NewsStatus</span>
+                </div>
+            </div>
+            <div class="detail-card">
+                <div class="detail-label">News Source</div>
+                <div class="detail-value">@Model.NewsSource</div>
+            </div>
+            <div class="detail-card">
+                <div class="detail-label">Last Modified</div>
+                <div class="detail-value">@Model.ModifiedDate?.ToString("MMM dd, yyyy")</div>
+            </div>
+            <div class="detail-card">
+                <div class="detail-label">Updated By</div>
+                <div class="detail-value">@Model.UpdatedById</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="action-buttons">
+        <a asp-action="Edit" asp-route-id="@Model?.NewsArticleId" class="btn btn-edit">Edit Article</a>
+        <a asp-action="Index" class="btn btn-back">Back to List</a>
+    </div>
+</div>

@@ -1,0 +1,24 @@
+﻿
+<li class="nav-item dropdown">
+    <a class="nav-link text-dark dropdown-toggle" href="#" role="button">
+        Admin Action
+    </a>
+    <div class="dropdown-menu admin-dropdown">
+        <div class="p-3" style="min-width: 300px;">
+            <div class="row">
+                <div class="col-md-12">
+                    <a href="@Url.Action("Create", "News")"
+                       class="btn btn-outline-primary mb-2 w-100 quick-access-btn">
+                        <i class="fas fa-plus-circle me-2"></i>Thêm tài khoản
+                    </a>
+                </div>
+                <div class="col-md-12">
+                    <a href="@Url.Action("Index", "Manager")"
+                       class="btn btn-outline-primary mb-2 w-100 quick-access-btn">
+                        <i class="fas fa-tasks me-2"></i>Quản lí tài khoản
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</li>

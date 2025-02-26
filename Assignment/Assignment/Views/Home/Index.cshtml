@@ -1,0 +1,59 @@
+﻿@using System.Security.Claims
+@model IEnumerable<Assignment.Models.NewsArticle>
+
+@{
+	ViewData["Title"] = "Trang chủ - Tin tức";
+}
+
+<h2 class="text-center">Tin tức mới nhất</h2>
+
+@if (User.Identity.IsAuthenticated)
+{
+	<h1>Chào mừng, @User.Identity.Name!</h1>
+	<div class="row">
+		@foreach (var news in Model)
+		{
+			<div class="col-md-4 mb-4">
+				<div class="card h-100 shadow-sm">
+					<div class="card-body">
+						<h5 class="card-title">@news.NewsTitle</h5>
+						<p class="text-muted">
+							Ngày đăng: @news.CreatedDate?.ToString("dd/MM/yyyy")
+						</p>
+						<p>
+							<strong>Nguồn:</strong>
+							@if (news.NewsSource == "N/A")
+							{
+								@:Tham khảo
+							}
+							else
+							{
+								@news.NewsSource
+							}
+						</p>
+						<p class="card-text">
+							@if (!string.IsNullOrEmpty(news.NewsContent) && news.NewsContent.Length > 100)
+							{
+								@news.NewsContent.Substring(0, 100)
+							}
+							else
+							{
+								@news.NewsContent
+							}
+						</p>
+						<a asp-controller="News" asp-action="Details" asp-route-id="@news.NewsArticleId" class="btn btn-primary">
+							Xem chi tiết
+						</a>
+					</div>
+				</div>
+			</div>
+		}
+	</div>
+}
+else
+{
+	<div class="text-center mt-4">
+		<h3>Vui lòng đăng nhập để xem bài viết!</h3>
+		<a asp-controller="Account" asp-action="Login" class="btn btn-success">Đăng nhập</a>
+	</div>
+}

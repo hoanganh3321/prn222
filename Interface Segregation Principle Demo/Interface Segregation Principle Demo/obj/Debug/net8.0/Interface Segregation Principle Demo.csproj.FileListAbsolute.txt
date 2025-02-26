@@ -1,0 +1,18 @@
+E:\wpfc#\gitPRN222\Interface Segregation Principle Demo\Interface Segregation Principle Demo\bin\Debug\net8.0\Interface Segregation Principle Demo.exe
+E:\wpfc#\gitPRN222\Interface Segregation Principle Demo\Interface Segregation Principle Demo\bin\Debug\net8.0\Interface Segregation Principle Demo.deps.json
+E:\wpfc#\gitPRN222\Interface Segregation Principle Demo\Interface Segregation Principle Demo\bin\Debug\net8.0\Interface Segregation Principle Demo.runtimeconfig.json
+E:\wpfc#\gitPRN222\Interface Segregation Principle Demo\Interface Segregation Principle Demo\bin\Debug\net8.0\Interface Segregation Principle Demo.dll
+E:\wpfc#\gitPRN222\Interface Segregation Principle Demo\Interface Segregation Principle Demo\bin\Debug\net8.0\Interface Segregation Principle Demo.pdb
+E:\wpfc#\gitPRN222\Interface Segregation Principle Demo\Interface Segregation Principle Demo\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\wpfc#\gitPRN222\Interface Segregation Principle Demo\Interface Segregation Principle Demo\obj\Debug\net8.0\Interface Segregation Principle Demo.csproj.AssemblyReference.cache
+E:\wpfc#\gitPRN222\Interface Segregation Principle Demo\Interface Segregation Principle Demo\obj\Debug\net8.0\Interface Segregation Principle Demo.GeneratedMSBuildEditorConfig.editorconfig
+E:\wpfc#\gitPRN222\Interface Segregation Principle Demo\Interface Segregation Principle Demo\obj\Debug\net8.0\Interface Segregation Principle Demo.AssemblyInfoInputs.cache
+E:\wpfc#\gitPRN222\Interface Segregation Principle Demo\Interface Segregation Principle Demo\obj\Debug\net8.0\Interface Segregation Principle Demo.AssemblyInfo.cs
+E:\wpfc#\gitPRN222\Interface Segregation Principle Demo\Interface Segregation Principle Demo\obj\Debug\net8.0\Interface Segregation Principle Demo.csproj.CoreCompileInputs.cache
+E:\wpfc#\gitPRN222\Interface Segregation Principle Demo\Interface Segregation Principle Demo\obj\Debug\net8.0\Interface Segregation Principle Demo.sourcelink.json
+E:\wpfc#\gitPRN222\Interface Segregation Principle Demo\Interface Segregation Principle Demo\obj\Debug\net8.0\Interface Segregation Principle Demo.csproj.CopyComplete
+E:\wpfc#\gitPRN222\Interface Segregation Principle Demo\Interface Segregation Principle Demo\obj\Debug\net8.0\Interface Segregation Principle Demo.dll
+E:\wpfc#\gitPRN222\Interface Segregation Principle Demo\Interface Segregation Principle Demo\obj\Debug\net8.0\refint\Interface Segregation Principle Demo.dll
+E:\wpfc#\gitPRN222\Interface Segregation Principle Demo\Interface Segregation Principle Demo\obj\Debug\net8.0\Interface Segregation Principle Demo.pdb
+E:\wpfc#\gitPRN222\Interface Segregation Principle Demo\Interface Segregation Principle Demo\obj\Debug\net8.0\Interface Segregation Principle Demo.genruntimeconfig.cache
+E:\wpfc#\gitPRN222\Interface Segregation Principle Demo\Interface Segregation Principle Demo\obj\Debug\net8.0\ref\Interface Segregation Principle Demo.dll

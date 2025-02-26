@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "lUJLGC7mfKM9X0jddATX2Tc+PPLrkN8apfEuWg7xiPfdszU3l1+RU1vRMdVT1T8kb51UwGf2sU4dzuTdPhNQtA==",
+  "dgSpecHash": "XFEZwCl2aG/KBC/FkyqY9Z6sEjJw3JIYfsFSmxShK0c+uu9KNPoUTj4htFZZWBj5XCZugr8aEotTBkytZRSjFg==",
   "success": true,
   "projectFilePath": "E:\\wpfc#\\gitPRN222\\LiskovSubstitutionPrincipleDemo\\LiskovSubstitutionPrincipleDemo\\LiskovSubstitutionPrincipleDemo.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\VICTUS HELLO\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\9.0.1\\microsoft.aspnetcore.jsonpatch.9.0.1.nupkg.sha512",
+    "C:\\Users\\VICTUS HELLO\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\VICTUS HELLO\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\VICTUS HELLO\\.nuget\\packages\\newtonsoft.json.bson\\1.0.3\\newtonsoft.json.bson.1.0.3.nupkg.sha512",
+    "C:\\Users\\VICTUS HELLO\\.nuget\\packages\\system.io.pipelines\\9.0.1\\system.io.pipelines.9.0.1.nupkg.sha512",
+    "C:\\Users\\VICTUS HELLO\\.nuget\\packages\\system.text.encodings.web\\9.0.1\\system.text.encodings.web.9.0.1.nupkg.sha512",
+    "C:\\Users\\VICTUS HELLO\\.nuget\\packages\\system.text.json\\9.0.1\\system.text.json.9.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ResponsibilityPrincipleDemo.modol
 {
-     class book:ibook
+     class Book: IBook
     {
         public string author {  get; set; }
         public string title { get; set; }

@@ -1,0 +1,14 @@
+﻿@model Assignment.Models.NewsArticle
+
+@{
+    ViewData["Title"] = Model.NewsTitle;
+}
+
+<h2>@Model.NewsTitle</h2>
+<p><strong>Ngày đăng:</strong> @Model.CreatedDate?.ToString("dd/MM/yyyy")</p>
+<p><strong>Danh mục:</strong> @(Model.Category?.CategoryName ?? "Không có")</p>
+<p><strong>Nguồn:</strong> @Model.NewsSource</p>
+<hr />
+<p>@Model.NewsContent</p>
+
+<a asp-action="Index" asp-controller="Home" class="btn btn-secondary">Quay lại</a>
